@@ -2,7 +2,6 @@
 Create a repository file  http://classroom.example.com/content/rhel9.0/x86_64/dvd/AppStream http://classroom.example.com/content/rhel9.0/x86_64/dvd/BaseOS
 # Name : Swetha D
 # Reg No : 212223040222
-# Dept : AIDS
 # Steps involved:
 ## Step 1 : cd /etc/yum.repos.d/
 ## Step 2 : sudo vi classroom.repo
